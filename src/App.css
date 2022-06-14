@@ -199,3 +199,9 @@ footer {
 footer a {
   color: black;
 }
+
+Header {
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
